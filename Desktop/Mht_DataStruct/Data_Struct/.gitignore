@@ -1,34 +1,4 @@
-# macOS system files
-.DS_Store
-.localized
-.CFUserTextEncoding
-
 # User settings and config
 .vscode/
-.config/
-.gitconfig
-.zsh_history
-.zsh_sessions/
-.zprofile
-.zprofile.pysave
-.viminfo
-.lesshst
-.idlerc/
-.ipython/
-
-# System folders you don't want to track
-Applications/
-Documents/
-Downloads/
-Library/
-Movies/
-Music/
-Pictures/
-Public/
-
-# Personal project folders outside the repo (adjust if needed)
-Essai2-mahamat/
-New2_Mht/
-mahamat_project_1/
-learning_git/
-learning1_git/
+Data_Struct/data_structures_Mht_py.egg-info
+dist
